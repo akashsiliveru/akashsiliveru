@@ -15,14 +15,28 @@ Passionate about transforming data into meaningful insights and building intelli
 
 ##  Tech Stack
 
+
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+### Statistics
+
+![Descriptive Statistics](https://img.shields.io/badge/Descriptive%20Statistics-4CAF50?style=flat)
+![Probability Distributions](https://img.shields.io/badge/Probability%20Distributions-2196F3?style=flat)
+![Hypothesis Testing](https://img.shields.io/badge/Hypothesis%20Testing-FF9800?style=flat)
+![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-9C27B0?style=flat)
+![Confidence Intervals](https://img.shields.io/badge/Confidence%20Intervals-795548?style=flat)
+
+![Statistical Inference](https://img.shields.io/badge/Statistical%20Inference-607D8B?style=flat)
+![Central Limit Theorem](https://img.shields.io/badge/Central%20Limit%20Theorem-3F51B5?style=flat)
+![Correlation Analysis](https://img.shields.io/badge/Correlation%20Analysis-E91E63?style=flat)
 
 ###  Data Science Libraries
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn)
+![Tenson Flow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ### Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
@@ -68,8 +82,8 @@ https://github.com/akashsiliveru/credit-card-fraud-detection
 
 ##  Connect With Me
 
-- LinkedIn: Add your LinkedIn here  
-- Email: Add your email here
+- LinkedIn: https://www.linkedin.com/in/akash-siliveru/
+- Email: akashsiliveru1419@gmail.com
 - 
 <p align="center">
 
