@@ -83,8 +83,7 @@ https://github.com/akashsiliveru/credit-card-fraud-detection
 ##  Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/akash-siliveru/
-- Email: akashsiliveru1419@gmail.com
-- 
+- Email: akashsiliveru1419@gmail.com 
 <p align="center">
 
   ⭐ If you like my work, consider giving a star to my repositories!
